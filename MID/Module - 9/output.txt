@@ -1,0 +1,9 @@
+3
+perent 1 :-1
+perent 2 :1
+perent 3 :1
+perent 4 :3
+perent 5 :2
+perent 6 :5
+perent 7 :5
+1 2 5 7 
